@@ -1,0 +1,12 @@
+.column {
+  float: right;
+  width: 250px;
+  background-color: bisque;
+  padding: 20px;
+  margin: 20px;
+}
+
+body {
+  background-color: aquamarine;
+  font-family: monospace;
+}
