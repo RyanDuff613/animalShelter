@@ -1,12 +1,22 @@
 .column {
   float: right;
   width: 250px;
-  background-color: bisque;
+  background-color: lightgray;
   padding: 20px;
   margin: 20px;
 }
 
 body {
-  background-color: aquamarine;
+  background-color: lightslategrey;
   font-family: monospace;
+}
+
+.dog {
+  background-color: lightyellow;
+  color: black;
+}
+
+.cat {
+  background-color: white;
+  color: black;
 }
